@@ -1,3 +1,10 @@
+> [!NOTE]
+> During my time in the EagleTRT Software team i developed some libraries for the team.
+> 
+> In particular:
+> - [mcp23017](https://github.com/Kalsifer-742/eagletrt-micro-libs/tree/master/mcp23017)
+> - [ucli](https://github.com/Kalsifer-742/eagletrt-micro-libs/tree/master/ucli)
+
 # MICRO-LIBS
 
 This repository contains a collection of libraries targeted for microcontrollers.
